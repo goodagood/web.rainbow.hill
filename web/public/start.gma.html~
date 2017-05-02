@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>Parallax Template - Materialize</title>
+  <title>Rainbow Hill Steel Casting Web Structure</title>
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -38,7 +38,7 @@
         <br><br>
         <h1 class="header center teal-text text-lighten-2">简短的醒目</h1>
         <div class="row center">
-          <h5 class="header col s12 light">这里只有一句话，铸钢，汽车冲压模型的材料专家。尚未拿到虹冈的图片，会去拿到。
+          <h5 class="header col s12 light">这里只有一句话，比如，铸钢，汽车冲压模型的材料专家。换成虹冈的图片，加艺术处理。
           艺术的内容由艺术的人参与做比较好 :-)</h5>
         </div>
         <div class="row center">
@@ -129,6 +129,17 @@
           <p class="left-align light">
           一个电话，一封邮件，一个留言，
           我们将为您提供可能 是最好的冲压模型材料。
+          天津虹冈铸钢有限公司是由日本虹技株式会社和日本冈谷钢机株式会社共同出资，
+          于2004年在天津经济开发区注册成立，并于2004年11月23日正式投产。
+          本公司采用泡沫实型浇铸工艺技术，
+          为汽车生产厂家提供高品质的加工大型汽车车体冲压用模具的铸铁产品。
+          2009年后，在中国市场异军突起，
+          我国汽车市场超过美国正式成为世界第一大汽车市场。
+          中国汽车业的高速成长，消费政策起到了重要的引导作用。
+          去年的购置税减半、“汽车下乡”和以旧换新三大政策，
+          拉动了中国私家车的巨大消费潜力，
+          在金融危机之下，国内汽车产销实现了09年每月30%-40%的同比增长。
+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
           </p>
         </div>
@@ -156,7 +167,7 @@
           <h5 class="white-text">关于我们</h5>
           <p class="grey-text text-lighten-4">
           首页最后的内容版块。.. 网站结构放在这里了，
-          也就是说，内容、功能和艺术设计可以开始了。
+          也就是说，在这个基础上，网站内容、功能和艺术设计可以开始了。
           <a href="https://github.com/goodagood/web.rainbow.hill" id="download-button"
                                                                   class="btn-large waves-effect waves-light teal lighten-1">
               这是有结构设计的网站</a> 

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>test</title>
+        <!-- 
+        -->
+    </head>
+    <body>
+        <h1>My Sample Project</h1>
+        <h2 id="info"></h2>
+    </body>
+    <!--
+
+    <script src="a.js"></script>
+    <script src="test.import.js"></script>
+    -->
+    <script src="test.import.js"></script>
+    <script src="browserify.a.ok.js"></script>
+    <script>
+
+        var something = 'some thing'
+        document.getElementById('info').innerHTML = something + window.cca;
+
+    </script>
+    
+</html>
+
