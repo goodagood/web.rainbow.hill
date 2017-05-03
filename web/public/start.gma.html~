@@ -44,8 +44,8 @@
               换成虹冈的图片，再进行艺术处理。 :-)</h5>
         </div>
         <div class="row center">
-          <a href="https://github.com/goodagood/web.rainbow.hill" id="download-button"
-              class="btn-large waves-effect waves-light teal lighten-1">心急的用户，跳转</a>
+          <a href="/halcyonic/index.html" id="download-button"
+              class="btn-large waves-effect waves-light teal lighten-1">新闻</a>
         </div>
         <br><br>
 
@@ -186,7 +186,10 @@
         <div class="col l3 s12">
           <h5 class="white-text">更多功能</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li>
+              <a href="/halcyonic/index.html" id="download-button"
+              class="btn-large waves-effect waves-light teal lighten-1">新闻列表2</a>
+            </li>
             <li><a class="white-text" href="#!">Link 2</a></li>
             <li><a class="white-text" href="#!">Link 3</a></li>
             <li><a class="white-text" href="#!">Link 4</a></li>
@@ -206,7 +209,12 @@
     <div class="footer-copyright">
       <div class="container">
       Made by <a class="brown-text text-lighten-3" href="https://github.com/goodagood">Andrew</a>
+      Copyright @NRHC
+
+          <a href="https://github.com/goodagood/web.rainbow.hill" id="download-button"
+              class="btn-large waves-effect waves-light teal lighten-1">github repo.</a>
       </div>
+
     </div>
   </footer>
 
