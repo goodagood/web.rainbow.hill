@@ -21,9 +21,37 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'node_modules')));
+
+// for node-gallery ? 2017 0503
+//app.use(express.static(path.normalize('/home/za/Pictures/rainbowhill')));
+app.use(express.static('/my/pic/'));
 
 app.use('/', index);
 app.use('/users', users);
+
+
+/*
+for node-gallery midware,
+2017 0502
+
+@param {string, required} staticFiles The directory where your album starts - can contain photos or images
+@param {string, required} urlRoot The root URL which you pass into the epxress router in app.use (no way of obtaining this otherwise)
+@param {string, optional} title Yup, you guessed it - the title to display on the root gallery
+@param {boolean, optional} render Default to true. 
+If explicitly set to false, rendering is left to the next function in the chain - see below. 
+@param {string, optional} thumbnail.width Thumbnail image width, defaults '200'
+@param {string, optional} thumbnail.height as above
+@param {string, optional} image.width Large images width defaults '100%'
+@param {string, optional} image.height as above
+*/
+app.use('/gallery', require('node-gallery')({
+  //staticFiles : '/home/za/Pictures/rainbowhill',
+  staticFiles : 'rainbowhill',
+  urlRoot : 'gallery.ng', 
+  title : 'Example EEE Gallery'
+}));
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

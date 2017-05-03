@@ -23,9 +23,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'node_modules')));
 
-// for node-gallery ? 2017 0503 - serving images
-//app.use(express.static(path.normalize('/home/za/Pictures/rainbowhill')));
-app.use(express.static('/my/pic/'));
+// for node-gallery ? 2017 0503
+app.use(express.static('/home/za/Pictures/'));
 
 app.use('/', index);
 app.use('/users', users);

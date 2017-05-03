@@ -1,0 +1,9 @@
+
+## express-photo-gallery
+
+package installed but 'epg-prep' not installed.
+
+2017 0502
+
+seems it needs hand on to do thumbs and previews,
+depending on `epg-prep`

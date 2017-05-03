@@ -16,17 +16,19 @@
       <a id="logo-container" href="#" class="brand-logo">NRHC(logo)</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#">导航:</a></li>
+        <li><a href="/myblue.1.html">图片</a></li>
         <li><a href="#">功能1 新闻m</a></li>
         <li><a href="#">功能2 互动m</a></li>
         <li><a href="#">功能3 招聘m</a></li>
-        <li><a href="#">功能3 更多m</a></li>
+        <li><a href="#">功能4 更多m</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
+        <li><a href="/myblue.1.html">图片</a></li>
         <li><a href="#">功能1 新闻m</a></li>
         <li><a href="#">功能2 互动m</a></li>
         <li><a href="#">功能3 招聘m</a></li>
-        <li><a href="#">功能3 更多m</a></li>
+        <li><a href="#">功能4 更多m</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
@@ -36,10 +38,10 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">简短的醒目</h1>
+        <h1 class="header center teal-text text-lighten-2">简短醒目位置</h1>
         <div class="row center">
-          <h5 class="header col s12 light">这里只有一句话，比如，铸钢，汽车冲压模型的材料专家。换成虹冈的图片，加艺术处理。
-          艺术的内容由艺术的人参与做比较好 :-)</h5>
+          <h5 class="header col s12 light">这里只放一句话，比如，铸钢，汽车冲压模型的材料专家。
+              换成虹冈的图片，再进行艺术处理。 :-)</h5>
         </div>
         <div class="row center">
           <a href="https://github.com/goodagood/web.rainbow.hill" id="download-button"
@@ -65,6 +67,7 @@
 
             <p class="light">
             这里将是第一个内容块。
+            <b>虹冈产能和市场同步登高！南通新厂加快建设</b>
             天津虹冈铸钢有限公司是由日本虹技株式会社和日本冈谷钢机株式会社共同出资，
             于2004年在天津经济开发区注册成立，并于2004年11月23日正式投产。
             本公司采用泡沫实型浇铸工艺技术，
@@ -80,9 +83,12 @@
             <h5 class="center">口碑来自用户</h5>
 
             <p class="light">
-            这里将是第2个内容块。
+            这里将是第2个内容块。 
+            <b>虹冈的专利数量持续上升！</b>
+            用户的用户肯定虹冈的产品和技术。......
+
             网站结构的设计是：适应所有的阅读设备，苹果、DELL。。。
-            手机、电脑、电子书。所以，没有手机版，因为不需要 :)
+            手机、电脑、电子书。所以不会有手机版，因为将是自动适应 :)
             </p>
           </div>
         </div>
@@ -90,10 +96,11 @@
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-            <h5 class="center">先进的设备</h5>
+            <h5 class="center">先进的管理</h5>
 
             <p class="light">
             这里将是第3个内容块。
+            <b>虹冈的管理水平不断提升！</b>......
 
             结构定了之后，功能是可以扩展的。
             网页可以开始设计，新闻、图片库、等等可以加入。
@@ -129,18 +136,10 @@
           <p class="left-align light">
           一个电话，一封邮件，一个留言，
           我们将为您提供可能 是最好的冲压模型材料。
-          天津虹冈铸钢有限公司是由日本虹技株式会社和日本冈谷钢机株式会社共同出资，
-          于2004年在天津经济开发区注册成立，并于2004年11月23日正式投产。
-          本公司采用泡沫实型浇铸工艺技术，
-          为汽车生产厂家提供高品质的加工大型汽车车体冲压用模具的铸铁产品。
-          2009年后，在中国市场异军突起，
-          我国汽车市场超过美国正式成为世界第一大汽车市场。
-          中国汽车业的高速成长，消费政策起到了重要的引导作用。
-          去年的购置税减半、“汽车下乡”和以旧换新三大政策，
-          拉动了中国私家车的巨大消费潜力，
-          在金融危机之下，国内汽车产销实现了09年每月30%-40%的同比增长。
+          天津虹冈铸钢有限公司在中国的销售增涨超过市场平均水准......
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+          先做首页、新闻列表页面和新闻页面、图片库、媒体库、用户登录，大致这个次序。
+
           </p>
         </div>
       </div>
@@ -166,15 +165,20 @@
         <div class="col l6 s12">
           <h5 class="white-text">关于我们</h5>
           <p class="grey-text text-lighten-4">
-          首页最后的内容版块。.. 网站结构放在这里了，
-          也就是说，在这个基础上，网站内容、功能和艺术设计可以开始了。
+          首页最后的内容版块。.. 
+          网站结构中的各种页面包括：首页、新闻列表页、新闻页、普通文章页面、图片库、视频库页面、登录页面、留言等等。
+          需要逐渐做好各类页面的样板。
+          功能包括：用户登录、管理员、文件上传(包括新闻、图片、视频等)。
+          语言：中英日自动切换。
+
+          
           <a href="https://github.com/goodagood/web.rainbow.hill" id="download-button"
                                                                   class="btn-large waves-effect waves-light teal lighten-1">
-              这是有结构设计的网站</a> 
+              同时链接不同媒体</a>
+          ：企业QQ，企业微信，微博，facebook, twitter, google+ 等等，从而成为易用和全网覆盖的企业门户。
+          甚至将来连通ERP和办公系统，向工作门户发展。大致这个思路，OK？
           <br />
 
-          We are a team of college students working on this project like it's our full time job. 
-          Any amount would help support and continue development on this project and is greatly appreciated.
           </p>
 
 
