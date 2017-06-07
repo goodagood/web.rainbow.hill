@@ -14,7 +14,7 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">
-        <img src="/images/logo150.jpg" alt="NRHC logo">
+        <img src="/images/logo130.jpg" alt="NRHC logo">
       </a>
       <ul class="right hide-on-med-and-down">
         <li><a href="/massively/index.html">新闻n</a></li>
@@ -45,7 +45,7 @@
           </h5>
         </div>
         <div class="row center">
-          <a href="/verti/index.html" id="download-button"
+          <a href="/massively/index.html" id="download-button"
               class="btn-large waves-effect waves-light teal lighten-1">新闻</a>
         </div>
         <br><br>
@@ -195,6 +195,11 @@
             <li>
               <a href="/halcyonic/index.html" id="download-button"
               class="btn-large waves-effect waves-light teal lighten-1">新闻列表2</a>
+            </li>
+            <li>
+          <a href="/verti/index.html" id="download-button"
+              class="btn-large waves-effect waves-light teal lighten-1">新闻3</a>
+
             </li>
             <li><a class="white-text" href="#!">Link 2</a></li>
             <li><a class="white-text" href="#!">Link 3</a></li>
